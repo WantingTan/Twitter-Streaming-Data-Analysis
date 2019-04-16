@@ -1,5 +1,4 @@
 # Twitter-Streaming-Data-Analysis
-Text Mining in Pandas and Data Analysis in Hadoop using Twitter API
 
 As more data is generated, it’s becoming increasingly important to be able to work with real-time data. Real-time, or streaming, data is generated continuously, and in the case of the stock market, there can be millions of rows generated every hour. Being able to work with streaming data is a critical skill for any aspiring data scientist. In this thesis, I’ll use Twitter data as an example and work with Hadoop in virtual machine and pandas data frame in Python.
 
